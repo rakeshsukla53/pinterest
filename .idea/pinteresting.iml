@@ -124,7 +124,7 @@
     <orderEntry type="library" scope="PROVIDED" name="bundler (v1.12.5, rbenv: 2.1.8) [gem]" level="application" />
   </component>
   <component name="RModuleSettingsStorage">
-    <LOAD_PATH number="0" />
+    <LOAD_PATH number="6" string0="$MODULE_DIR$" string1="$MODULE_DIR$/app" string2="$MODULE_DIR$/bin" string3="$MODULE_DIR$/config" string4="$MODULE_DIR$/db" string5="$MODULE_DIR$/lib" />
     <I18N_FOLDERS number="1" string0="$MODULE_DIR$/config/locales" />
   </component>
 </module>
